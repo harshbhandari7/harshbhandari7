@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Harsh</h1>
 <h5 align="center">An Indore based developer having professional experience of 2+ years. I work on ReactJS and Python at my current organisation on a fintech product. Feel free to connect with me if you have any opportunities for me and would like to know more about me.</h5>
 
+<p align="center"> <img alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif" /> </p>
+
 - 🔭 I’m currently working on enhancing this [project](https://github.com/harshbhandari7/scrapped-mf-details).
 
 - 🌱 I’m currently learning **System Design.**
