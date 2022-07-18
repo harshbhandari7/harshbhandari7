@@ -7,8 +7,6 @@
 
 - 🤝 I’m looking for help with **Databases and architecture.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/harshbhandari7](https://github.com/harshbhandari7)
-
 - 💬 Ask me about **ReactJS, Python, Data-Analysis, DSA.**
 
 - 📫 Reach out to me [here](mailto:harshbhandari32@gmail.com).
